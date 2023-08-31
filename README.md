@@ -1,6 +1,6 @@
 # コンテンツ
 - [マクロ入りのexcelファイル](バーコードマクロ.xlsm) > マクロと説明を含めたエクセルファイル
-- [マクロ](macro.txt) > excelに含まれているマクロ
+- [マクロ](macro.bas) > excelに含まれているマクロ
 - [バーコードフォント](TAKA_JANTT.ttf) > [個人ブログ](https://takachan.jra.net/computer/font.php)で公開されているフリーのバーコードフォント
 
 # 説明
