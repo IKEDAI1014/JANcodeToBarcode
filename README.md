@@ -2,6 +2,7 @@
 - [マクロ入りのexcelファイル](バーコードマクロ.xlsm) > マクロとマクロの説明、注意点やバーコードフォントを含めたエクセルファイル
 - [マクロ](macro.bas) > excelに含まれているマクロ
 - [バーコードフォント](TAKA_JANTT.ttf) > [個人ブログ](https://takachan.jra.net/computer/font.php)で公開されているフリーのバーコードフォント
+# プレビュー
 ![マクロプレビュー](preview.gif)
 
 # 使い方
